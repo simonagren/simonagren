@@ -16,7 +16,7 @@
 </p>
 
 ## 👨‍ About me
-I’m currently working as an architect at @Sogeti. I focus on Microsoft 365 and Azure. 
+Technical architect at Advania - Knowledge Factory. I focus on Microsoft 365 and Azure. 
 I really love to explore and understand complex development concepts. And when I understand, I love to share what I do.
 
 - Email: agren.simon@gmail.com
