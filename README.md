@@ -2,7 +2,7 @@
 
 <p align='center'>
    <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003376" title="MVP Profile">
-     <img src="https://img.shields.io/badge/MVP-Office Development-%23D83B01.svg?&style=for-the-badge&logo=microsoft&logoColor=white" />
+     <img src="https://img.shields.io/badge/MVP-Security-%23D83B01.svg?&style=for-the-badge&logo=microsoft&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>  
 
